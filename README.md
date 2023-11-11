@@ -4,7 +4,7 @@
 3. **IP Address Output:** The script outputs a list of IP addresses present in the CIDR range, enabling users to easily access the individual IPs without additional formatting or numbering.
 
 **Usage:**
-
+ 
 Users can run the script from a terminal or command prompt by providing the CIDR range as a command-line argument. For instance:
 
 ```
